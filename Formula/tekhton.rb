@@ -2,7 +2,7 @@ class Tekhton < Formula
   desc "Multi-agent development pipeline built on Claude CLI"
   homepage "https://github.com/geoffgodwin/tekhton"
   url "https://github.com/GeoffGodwin/tekhton/archive/refs/tags/v3.125.3.tar.gz"
-  sha256 "d89a19348154c142caa59da7fd911d2f608e32ff78062b13fc40a9d177f0a3e4"
+  sha256 "d5ff7a2cbc0f204477a8efd8cbe88be80da9dc04e6014f668013866e4980e876"
   license "MIT"
 
   def install
